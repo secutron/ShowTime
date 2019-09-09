@@ -6,10 +6,18 @@
 
 ### TF2.0 beta1
 
-eager execution : 기본 개념은 [여기](https://developers-kr.googleblog.com/2018/05/eager-execution.html)를 참조한다
+eager execution을 디폴트로 지원: 
 
+- eager excution에 대한 기본 개념은 [여기](https://developers-kr.googleblog.com/2018/05/eager-execution.html)를 참조한다
 
+- eager execution이 지원되는 경우 아래와 같이 tf를 사용할 수 있다
 
+~~~
+x = [[2.]]
+m = tf.matmul(x, x)
+
+print(m)
+~~~
 
 
 ### 기본팁: 
