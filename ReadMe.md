@@ -6,7 +6,7 @@
 
 ### TF2.0 beta1
 
-eager execution : 기본 개념은 [여기][eagerlink][eagerlink]:https://developers-kr.googleblog.com/2018/05/eager-execution.html 를 참조한다
+eager execution : 기본 개념은 [여기](https://developers-kr.googleblog.com/2018/05/eager-execution.html)를 참조한다
 
 
 
