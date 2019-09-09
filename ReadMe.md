@@ -37,5 +37,27 @@ outputs = f(input)
 - 구글 코랩에서 인라인 도움말을 보려면, 함수 괄호 다음에 캐럿을 위치시키고 탭 키를 누른다.
   (주피터의 shift+tab은 코랩에서 동작하지 않는다)
   
-  
+- tf2.0-beta1과 tf2.0-rc0
+
+~~~
+### beta1
+###
+!pip install tensorflow-gpu==2.0.0-beta1
+### beta1
+
+
+### rc0
+###
+from __future__ import absolute_import, division, print_function, unicode_literals
+
+try:
+  # %tensorflow_version only exists in Colab.
+  %tensorflow_version 2.x
+except Exception:
+  pass
+### rc0
+
+import tensorflow as tf
+print(tf.__version__)
+~~~
 
