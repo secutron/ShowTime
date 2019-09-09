@@ -10,6 +10,8 @@ eager execution : 기본 개념은 [여기](https://developers-kr.googleblog.com
 
 
 
+
+
 ### 기본팁: 
 
 - 구글 코랩에서 인라인 도움말을 보려면, 함수 괄호 다음에 캐럿을 위치시키고 탭 키를 누른다.
