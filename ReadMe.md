@@ -9,9 +9,9 @@
 
 ## DP-APP : 구글 코랩에서 동작 가능한 다양한 응용들만 다룬다 
 
-![Alt text](/ShowTime/baby.jpg)
+![Alt text](/baby.jpg)
 
-![Alt text](/ShowTime/baby.jpg)
+
 
 
 
