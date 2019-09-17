@@ -8,8 +8,9 @@
 
 
 ## DP-APP : 구글 코랩에서 동작 가능한 다양한 응용들만 다룬다 
- 
-<a href="url"><img src="/baby.png" align="left" height="128" width="128" ></a>
+
+![alt text](/baby.png "Title")
+
 
 
 
