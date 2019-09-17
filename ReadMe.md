@@ -9,15 +9,15 @@
 
 ## DP-APP : 구글 코랩에서 동작 가능한 다양한 응용들만 다룬다 
 
-![alt text](/2.png "Title")
+![alt text](/ext.jpg "Title")
 
-![alt text](/densepose.png "Title")
+![alt text](/densepose.jpg "Title")
 
 ![alt text](/baby.png "Title")
 
 ![alt text](/pose2.png "Title")
 
-![alt text](/multi-stream.png "Title")
+![alt text](/multi-stream.jpg "Title")
 
 
 
